@@ -1,0 +1,1 @@
+this lesson teaches us how to collaberate with friends all over the world with git hub.
