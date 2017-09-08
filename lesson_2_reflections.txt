@@ -7,3 +7,9 @@ When you've created and updated your reflections document for lesson 2, click "N
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 When you've updated your document, click "Next" and Caroline will go over how to commit the changes you’ve added to the staging area.
+------------------------------------
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+You may also want to commit your changes to the file. When you're ready to move on, click "Next" to hear a perspective from an experienced Git user.
+----------------------------------
+
